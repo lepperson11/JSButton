@@ -13,3 +13,8 @@ body {
   padding-top: 4%;
   padding-bottom: 12%;
 }
+button {
+  background-color: red;
+  width: 100px;
+  height: 50px;
+}
